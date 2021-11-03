@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parag
+- 👋 Hi, I am Parag
 - 👀 I’m interested in Machine Learning,Flask,Django.
 - 🌱 I’m currently exploring various Machine Learning Algorithms.
 - 📫 How to reach me on paragnaik2021.git@gmail.com.
