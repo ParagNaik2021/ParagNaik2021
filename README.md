@@ -1,6 +1,6 @@
-- 👋 Hi, I am Parag
-- 👀 I’m interested in Machine Learning,Flask,Django.
-- 🌱 I’m currently exploring various Machine Learning Algorithms.
+- 👋 Hi, I am Parag. Currently pursuing masters degree in California State University, Chico.
+- 👀 I’m interested in Machine Learning,Flask,Django,Spring boot.
+- 🌱 I’m currently exploring various Web Development frameworks, Machine Learning Algorithms.
 - 📫 How to reach me on paragnaik2021.git@gmail.com.
 
 <!---
